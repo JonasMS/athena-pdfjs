@@ -1,5 +1,5 @@
 {
-  "name": "pdf.js",
+  "name": "athena-pdfjs",
   "version": "1.0.0",
   "devDependencies": {
     "acorn": "^4.0.11",
